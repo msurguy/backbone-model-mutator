@@ -4,7 +4,14 @@ Wait, I mean... look further. Don't stop looking at this page. Ah, I'm terrible 
 
 If you've used [EmberJS](http://emberjs.com/guides/object-model/computed-properties/), rails, laravel, or many other frameworks then you've probably messed with computed properties. Or maybe you call them dynamic attributes or something else. 
 
-#### To get started just load [src/backbone.model.computed.js](https://raw.github.com/kdocki/backbone.model.computed/master/src/backbone.model.computed.js) into your page.
+#### To get started:
+
+Just load `dist/backbone-model-mutator.min.js` from this repository into your page.
+Optionally, you may use Bower to install this plugin as a package:
+
+```shell
+bower install backbone-model-mutator --save
+```
 
 But maybe you want to know what this thing does? So basically, I wanted to be able to do this,
 
