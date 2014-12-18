@@ -1,0 +1,27 @@
+{
+  "name": "backbone-model-mutator",
+  "version": "1.0.0",
+  "homepage": "https://github.com/msurguy/backbone-model-mutator",
+  "authors": [
+    "Maks Surguy <msurguy@gmail.com>"
+  ],
+  "description": "Computed properties, getters and setters for Backbone models, similar to Laravel, Ember mutators",
+  "main": "dist/backbone-model-mutator.min.js",
+  "keywords": [
+    "Backbone",
+    "mutator",
+    "getter",
+    "setter",
+    "ember",
+    "laravel",
+    "model"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
