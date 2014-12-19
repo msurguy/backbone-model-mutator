@@ -1,17 +1,9 @@
 {
-    "name": "backbone-model-mutator",
-    "version": "1.0.0",
-    "devDependencies": {
-        "grunt": "~0.4.1",
-        "grunt-contrib-compass": "~0.2.0",
-        "grunt-contrib-watch": "~0.4.3",
-        "grunt-contrib-uglify": "~0.2.0",
-        "matchdep": "~0.1.2",
-        "mocha": "*",
-        "chai": "*",
-        "karma": "~0.10",
-        "karma-mocha": "~0.1",
-        "karma-handlebars-preprocessor": "*",
-        "backbone" : "*"
-    }
+  "name": "backbone-model-mutator",
+  "main": "./src/backbone-model-mutator",
+  "version": "1.0.0",
+  "devDependencies": {
+    "backbone": "*",
+    "gulp": "^3.8.10"
+  }
 }
